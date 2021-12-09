@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://ubairnoor.github.io/csb-usdyf/static/css/main.d4f29602.chunk.css",
-    "main.js": "https://ubairnoor.github.io/csb-usdyf/static/js/main.1de99d6f.chunk.js",
-    "main.js.map": "https://ubairnoor.github.io/csb-usdyf/static/js/main.1de99d6f.chunk.js.map",
+    "main.js": "https://ubairnoor.github.io/csb-usdyf/static/js/main.bd5e4df0.chunk.js",
+    "main.js.map": "https://ubairnoor.github.io/csb-usdyf/static/js/main.bd5e4df0.chunk.js.map",
     "runtime-main.js": "https://ubairnoor.github.io/csb-usdyf/static/js/runtime-main.ebe4dadb.js",
     "runtime-main.js.map": "https://ubairnoor.github.io/csb-usdyf/static/js/runtime-main.ebe4dadb.js.map",
-    "static/js/2.03207603.chunk.js": "https://ubairnoor.github.io/csb-usdyf/static/js/2.03207603.chunk.js",
-    "static/js/2.03207603.chunk.js.map": "https://ubairnoor.github.io/csb-usdyf/static/js/2.03207603.chunk.js.map",
+    "static/js/2.42758aca.chunk.js": "https://ubairnoor.github.io/csb-usdyf/static/js/2.42758aca.chunk.js",
+    "static/js/2.42758aca.chunk.js.map": "https://ubairnoor.github.io/csb-usdyf/static/js/2.42758aca.chunk.js.map",
     "index.html": "https://ubairnoor.github.io/csb-usdyf/index.html",
     "static/css/main.d4f29602.chunk.css.map": "https://ubairnoor.github.io/csb-usdyf/static/css/main.d4f29602.chunk.css.map",
-    "static/js/2.03207603.chunk.js.LICENSE.txt": "https://ubairnoor.github.io/csb-usdyf/static/js/2.03207603.chunk.js.LICENSE.txt"
+    "static/js/2.42758aca.chunk.js.LICENSE.txt": "https://ubairnoor.github.io/csb-usdyf/static/js/2.42758aca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ebe4dadb.js",
-    "static/js/2.03207603.chunk.js",
+    "static/js/2.42758aca.chunk.js",
     "static/css/main.d4f29602.chunk.css",
-    "static/js/main.1de99d6f.chunk.js"
+    "static/js/main.bd5e4df0.chunk.js"
   ]
 }
